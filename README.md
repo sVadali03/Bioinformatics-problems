@@ -1,2 +1,2 @@
 # Bioinformatics-problems
-# DNA to RNA
+# Transcribing DNA to RNA
