@@ -1,10 +1,10 @@
 # Bioinformatics-problems
 # Transcribing DNA to RNA
 ![image](https://user-images.githubusercontent.com/66241504/150932757-dd4e409c-8eca-43c5-a3d6-8d461268b7ed.png)
-G --> C
-C --> G
-A --> U
-T --> U
+- G --> C
+- C --> G
+- A --> U
+- T --> U
 
 # Transalting RNA to protein
 It is the process in which the genetic code in mRNA is read, one codon at a time, to make a protein. After mRNA leaves the nucleus, it moves to a ribosome, which consists of rRNA and proteins. The ribosome reads the sequence of codons in mRNA. Molecules of tRNA bring amino acids to the ribosome in the correct sequence.
