@@ -1,2 +1,2 @@
-# Rosalind-bioinformatics-problems
-https://rosalind.info/problems/locations/
+# Bioinformatics-problems
+#DNA to RNA
